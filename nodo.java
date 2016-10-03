@@ -1,7 +1,7 @@
 
 /* 	Universidad del Valle de Guatemala
- *  Algoritmos y Estructura de Datos
- *  	
+ *  	Algoritmos y Estructura de Datos
+ *  	Brandon Hernandez 15326
  *  	Diego Lopez 141222
  *  	Hoja de Trabajo 8
 */
